@@ -1,0 +1,93 @@
+<html>
+
+    <body bgcolor="pink">
+
+ 
+
+       
+
+        <center>
+
+        <form>
+
+ 
+
+       
+
+        <table border="1">
+
+            <tr>
+
+                <th>
+
+                    name
+
+                </th>
+
+                <th>
+
+                    <input type="text">
+
+                </th>
+
+            </tr>
+
+            <tr>
+
+                <th>
+
+                    phone number
+
+                </th>
+
+                <th>
+
+                    <input type="number">
+
+                </th>
+
+            </tr>
+
+            <tr>
+
+                <th>
+
+                    items
+
+                </th>
+
+                <th>
+
+                    <input type="checkbox">lays</input>
+
+                    <input type="checkbox">harpic</input>
+
+                    <input type="checkbox">tomato</input>
+
+                    <input type="checkbox">potato</input>
+
+                    <input type="checkbox">rice</input>
+
+                    <input type="checkbox">wheat</input>
+
+                </th>
+
+            </tr>
+
+         
+
+           
+
+        </table>
+
+        <button type="submit">submit</button>
+
+        <button type="reset">Reset</button
+
+        </center>
+
+    </form>
+
+    </body>
+
+</html>
